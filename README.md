@@ -1,0 +1,2 @@
+# StaticReact
+Created with CodeSandbox
